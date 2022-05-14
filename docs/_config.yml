@@ -1,4 +1,4 @@
 title: "Remote theme example"
-# remote-theme: just-the-docs/just-the-docs
-remote-theme: pmarsceill/just-the-docs@v0.1.6
+remote-theme: just-the-docs/just-the-docs
+# remote-theme: pmarsceill/just-the-docs@v0.1.6
 # theme: jekyll-theme-minimal
