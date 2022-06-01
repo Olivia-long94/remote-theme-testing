@@ -6,4 +6,4 @@ parent: grandgrand
 grand_parent: home
 ---
 
-### This is grand grand child page
+### This is grand child page
