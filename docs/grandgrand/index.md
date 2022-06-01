@@ -1,8 +1,8 @@
 ---
-title: grand
+title: grandgrand
 nav_order: 2
-parent: grandgrand
-grand_parent: grandgrand
+parent: home
+has_children: true
 ----
 
-### This is grand child page
+### This is grand grand page
